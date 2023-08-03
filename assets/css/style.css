@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    padding: 0px 40px;
+    background-color: white;
+    
+    }
+
+section{
+    display: flex;
+    justify-content: center;
+}
+.pesos-card{
+    flex-direction: column;
+    width: 24em;
+    background-color: grey;
+    padding: 2em;
+    border-radius: 3%;
+}
